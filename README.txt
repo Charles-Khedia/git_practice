@@ -10,11 +10,7 @@ This is Fourth update
 
 This is Fifth update
  
-This is for checkout command
+This is done
 
-<<<<<<< HEAD
-This is for reset command
-=======
-This is for reset SHA command
 
->>>>>>> 3dbe790 (new Change)
+This is for branch push example
