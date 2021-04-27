@@ -14,3 +14,4 @@ This is for checkout command
 
 This is for reset SHA command
 
+Clone example
